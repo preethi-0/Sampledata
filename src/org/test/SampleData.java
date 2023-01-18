@@ -2,6 +2,10 @@ package org.test;
 
 public class SampleData {
 	
+	private void anuMethod(){
+		System.out.println("Anu created a method");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println(1);
